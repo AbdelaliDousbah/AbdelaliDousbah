@@ -27,8 +27,8 @@ I'm currently expanding my skill set into the world of backend development. I'm 
 
 ## Connect with Me
 
-- 📫 **Email:** [your.email@example.com](mailto:abdelali.dousbah@outlook.com)
-- 🌐 **Website:** [Your Portfolio Website](https://www.dousbah-abdelali.netlify.app)
+- 📫 **Email:** [abdelali.dousbah@outlook.com](mailto:abdelali.dousbah@outlook.com)
+- 🌐 **Website:** [Click here](https://www.dousbah-abdelali.netlify.app)
 
 Let's connect, collaborate, and code! Feel free to reach out if you have questions, want to work together, or just chat about technology.
 
